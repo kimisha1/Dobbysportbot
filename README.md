@@ -1,6 +1,7 @@
 # Sports Programmer Telegram Bot
 
 A specialized Telegram bot (`app.py`) that combines software engineering expertise with sports analytics knowledge. The bot uses Fireworks AI to provide intelligent responses about coding, sports data analysis, and the intersection of technology and sports.
+TG BOT:@Dobbysportbot
 
 ## Features
 - **Sports Programming Expertise**: Combines software engineering (Python, JavaScript, SQL, algorithms) with sports knowledge
@@ -129,4 +130,5 @@ Feel free to enhance the bot by:
 - Improving error handling
 - Adding more specialized sports programming features
 - Implementing data visualization capabilities
+
 
